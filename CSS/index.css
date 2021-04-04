@@ -1,5 +1,26 @@
 @charset "utf-8";
 
-h1 {
-  color: red;
+body {
+  margin: 0;
+}
+
+.header-inner {
+  background: #bad7f5;
+}
+
+.nav-inner {
+  color: #0086f9;
+  background: #0086f9;
+}
+
+.main-inner {
+  background: #fffde3;
+}
+
+.sidebar-inner {
+  background: #c0f5d9;
+}
+
+.footer-inner {
+  background: #bad7f5;
 }
